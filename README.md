@@ -175,7 +175,7 @@ This project is licensed under the MIT License.
 
 ## 🙋 Author
 
-**Angesh**  
+**Angesh Chauhan**  
 Backend & Full-Stack Developer  
 
 ---
