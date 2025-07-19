@@ -33,8 +33,8 @@ A secure and scalable authentication system built with Node.js, Express, MongoDB
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/TheHiddenLoop/auth-stack-app.git
+   cd auth-stack-app
    ```
 
 2. **Install backend dependencies**
