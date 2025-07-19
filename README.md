@@ -25,7 +25,7 @@ A secure and scalable authentication system built with Node.js, Express, MongoDB
 |------------|-------------------------------------------------|
 | Backend    | Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt, Nodemailer |
 | Frontend   | React, Recoil, Axios, Vite, Tailwind CSS        |
-| Dev Tools  | ESLint, dotenv, Morgan, CORS                    |
+| Dev Tools  | dotenv, CORS                    |
 
 ---
 
